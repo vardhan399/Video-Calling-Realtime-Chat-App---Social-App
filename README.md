@@ -29,7 +29,7 @@ JWT_SECRET_KEY=your_jwt_secret
 NODE_ENV=development
 ```
 
-### Frontend (`/frontend`)
+### Frontend (`/frontend`) 
 
 ```
 VITE_STREAM_API_KEY=your_stream_api_key
